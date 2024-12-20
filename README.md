@@ -1,5 +1,5 @@
 # BiteShare: Food-Focused Social Media Platform
-## Project Title: BiteShare By: Vinard James Damasco | Rephael Aplacador
+## Project Title: BiteShare By: Rephael Aplacador | Vinard James Damasco 
 
 ### Description
 BiteShare is a food-focused social media platform where users can share, post, and comment on recipes. It caters to various users including home cooks, food enthusiasts, professional chefs, food bloggers, culinary students, families, and fitness enthusiasts. The platform provides inspiration, community connection, and educational opportunities for users passionate about cooking and food.
